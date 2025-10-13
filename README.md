@@ -18,6 +18,8 @@
 
 ## Gain practical experience with [embeddings](https://github.com/aihpi/kisz-nlp-embeddings), vector databases, and local Large Language Models (LLMs)
 
+**Repository:** [https://github.com/aihpi/workshop-local-rag](https://github.com/aihpi/workshop-local-rag)
+
 ![Flowchart](images/ragflowchart.png)
 
 ---
